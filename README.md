@@ -151,32 +151,6 @@ For this project, use `collect_books.py`.
 
 # Final Submission Checklist
 
-### Task 1
-- [ ] `collect_books.py`
-- [ ] `books.db`
-- [ ] Book records verified in SQLite
-
-### Task 2
-- [ ] `student_scores.py`
-- [ ] `student_average_scores.png`
-- [ ] Average scores displayed
-
-### Task 3
-- [ ] `users.csv`
-- [ ] `csv_to_sqlite.py`
-- [ ] `users.db`
-- [ ] User records verified in SQLite
-
-### Task 4
-- [ ] `complex_python.py`
-- [ ] Program runs successfully
-- [ ] GitHub link copied
-
-### Task 5
-- [ ] `collect_books.py`
-- [ ] Database verified
-- [ ] GitHub link copied
-
 ---
 
 # Project Structure
