@@ -149,8 +149,6 @@ For this project, use `collect_books.py`.
 
 ---
 
-# Final Submission Checklist
-
 ---
 
 # Project Structure
